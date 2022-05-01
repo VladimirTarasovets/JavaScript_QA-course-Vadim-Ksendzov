@@ -1,0 +1,1 @@
+# JavaScript_QA-course-Vadim-Ksendzov
